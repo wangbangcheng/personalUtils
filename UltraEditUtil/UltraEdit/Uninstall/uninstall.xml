@@ -1,0 +1,2642 @@
+<?xml version="1.0" encoding="iso-8859-1"?><SUF70UninstallData>
+<DataFilePath>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\uninstall.dat</DataFilePath>
+<EXELocation>d:\Program Files\IDM Computer Solutions\UltraEdit\uninstall.exe</EXELocation>
+<AppShortcutFolderPath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraEdit</AppShortcutFolderPath>
+<UninstallReverseOrder>1</UninstallReverseOrder>
+<UninstallFiles>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Charcoal.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Classic.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Espresso.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Glitch.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Midnight.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Modern Light.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Slate.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Sterling.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Titanium.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes\Twilight.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\style.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images\bg-repeat.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images\footer.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images\header.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images\uc_icon.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images\ue3_icon.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images\ues_icon.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images\ue_icon.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images\us_icon.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\astyle.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\ctags.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\iconv.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\libxml2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\xmllint.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\zlib1.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\COPYING</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\en.prepl</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\en.pws</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\README</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\bin\aspell6.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\ASCII.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1250.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1250.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1251.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1251.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1252.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1252.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1253.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1253.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1254.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1254.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1255.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1255.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1256.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1256.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1257.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1257.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1258.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\cp1258.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\dvorak.kbd</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-1.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-1.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-10.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-10.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-11.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-11.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-13.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-13.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-14.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-14.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-15.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-15.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-16.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-16.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-2.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-2.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-3.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-3.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-4.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-4.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-5.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-5.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-6.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-6.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-7.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-7.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-8.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-8.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-9.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso-8859-9.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-1.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-10.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-13.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-14.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-15.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-2.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-3.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-4.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-5.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-6.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-7.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-8.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\iso8859-9.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\koi8-f.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\koi8-r.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\koi8-r.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\koi8-r.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\koi8-u.cmap</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\koi8-u.cset</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\koi8-u.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\split.kbd</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\standard.kbd</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\tex.conv</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data\viscii.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\licenses\COPYING.aspell</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\licenses\COPYING.astyle</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\licenses\COPYING.ctags</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\licenses\COPYING.iconv</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\licenses\libxml2.txt</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\src\source_code.txt</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\scripts\header.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\scripts\hello.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\scripts\stringvar.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\c_cplusplus-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\csharp-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\css-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\html-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\javascript-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\java-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\mysql-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\perl-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\php-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\python-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\ruby-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\vbscript-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\visualbasic-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\c_cplusplus.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\csharp.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\css.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\html.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\java.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\javascript.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\mysql.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\perl.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\php.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\python.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\ruby.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\vbscript.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\visualbasic.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\xml.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\c_cplusplus.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\csharp.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\css.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\html.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\java.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\javascript.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\mysql.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\perl.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\php.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\python.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\ruby.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\vbscript.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\visualbasic.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy\xml.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\dbghelp.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\icudt63.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\icuin63.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\icuuc63.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\idm_tidylib.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\idmcl.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\KEYLIB32.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\PLUSNative.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ProtectionPlusDLL.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\taglist.uet</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uedit64.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\UEDOS32.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uehh.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uejs.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\update.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\changes.txt</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\ucl.chm</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\ucres.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uedit64.chm</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uedit64.lng</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ueres.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\translations\zh_CN\skpp.mo</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\translations\zh_CN\wxstd.mo</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\style.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\ipm.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\style.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\js\ipm-arrange.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\js\ipm-config.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\js\ipm-localize.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\box-ue.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\box-ueuc.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\button-activate-bg.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\button-bg.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\check.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-bookmarks.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-column.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-compare.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-find.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-findinfiles.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-ftp.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-functionlist.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-html.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-html-icon.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-macro.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-multi-caret.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-scripting.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-sort.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-templates.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-themes.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-themes-icon.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-themes-layouts.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-wordfile.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-xml.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\key.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\layouts-themes.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\multi-platform.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\triangle.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\box-uesuc.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\box-uem.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\box-uemucm.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\box-ues.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images\feat-themes-graphic.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UF\ipm_UF.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UF\images\infotable_bg.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UF\images\alert.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UF\images\box_uf.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UF\images\download.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\ucl.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbexp\expired.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbexp\style.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbexp\images\button-bg.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbexp\js\ipm-arrange.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbexp\js\ipm-localize.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr\renewal.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr\style.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr\images\button-bg.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr\images\renewal.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr\js\ipm-arrange.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr\js\ipm-localize.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\gnu\sort\cygiconv-2.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\gnu\sort\cygintl-8.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\gnu\sort\cygwin1.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\gnu\sort\sort.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\shell.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc></FontDesc>
+<BackupFile></BackupFile>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\wf.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc></FontDesc>
+<BackupFile></BackupFile>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\batch.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc></FontDesc>
+<BackupFile></BackupFile>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\shell-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc></FontDesc>
+<BackupFile></BackupFile>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\wf-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc></FontDesc>
+<BackupFile></BackupFile>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\batch-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc></FontDesc>
+<BackupFile></BackupFile>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\powershell.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language\powershell-tpl.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\json.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UFTP\ipm_UFTP.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UFTP\images\download.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UFTP\images\box_uftp.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ErrorReporting\IDMMonitor.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\ErrorReporting\IDMRem.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\arrange.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\strings.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\check.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\layout_balanced.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\layout_clean.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\layout_lean.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\layout_multi-window.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\menus.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\menus_toolbars.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\ribbon.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\theme_charcoal.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\theme_classic.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\theme_slate.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\idmwelcome.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs\menus.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs\menus_toolbars.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs\ribbon.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs\theme_charcoal.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs\theme_classic.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs\theme_slate.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs\theme_sterling.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs\theme_titanium.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\style_charcoal.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\style_classic.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\check_lt.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data\themes\Classic.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data\themes\Espresso.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data\themes\Midnight.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data\themes\Modern Light.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data\themes\Slate.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data\themes\Sterling.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data\themes\Titanium.ue-theme</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\style_sterling.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\theme_sterling.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\markdown.uew</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\licenses\LICENSE.markdown.TXT</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\cmark-gfm.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\cmark-gfm-extensions.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\cmark-gfm.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\commandpalette\commandpalette.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\tools\jsl\jsl.default.conf</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\tools\jsl\jsl.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Users\Public\Desktop\UltraEdit.lnk</Filename>
+<Filename>C:\Users\15201\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\UltraEdit.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraEdit\UltraEdit.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraEdit\Uninstall UltraEdit.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\IRIMG1.BMP</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\IRIMG2.BMP</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\IRIMG3.BMP</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\IRIMG4.BMP</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\IRIMG5.BMP</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\IRIMG1.PNG</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\IRIMG6.BMP</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\IRIMG2.PNG</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\ue_rnd.ico</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\wiseremoval32.dll</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\wiseremoval64.dll</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\uednload32.dll</Filename>
+<Filename>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall\uednload64.dll</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>d:\Program Files\IDM Computer Solutions</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\Uninstall</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\default data</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\default data\themes</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\extras</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\images</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\bin</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\aspell\data</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\licenses</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\GNU\src</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\scripts</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\template</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\template\language</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\wordfiles\legacy</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\translations</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\translations\zh_CN</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\js</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\images</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UF</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UF\images</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbexp</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbexp\images</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbexp\js</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr\images</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm\sbscr\js</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\gnu\sort</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UFTP</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ipm_UFTP\images</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\ErrorReporting</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\welcome\images\chs</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\uclite\default data\themes</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\extras\commandpalette</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\tools</FolderPath>
+<FolderPath>d:\Program Files\IDM Computer Solutions\UltraEdit\tools\jsl</FolderPath>
+<FolderPath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraEdit</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>UltraEdit</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>IDM Computer Solutions, Inc.</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>26.10.0.72</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>Copyright © 2015 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value>http://www.ultraedit.com</Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% Setup</Value>
+</Var>
+<Var>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Uninstaller</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>d:\Program Files\IDM Computer Solutions\UltraEdit</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>%ProductName%</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Users\15201\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolderCommon%</Name>
+<Value>C:\ProgramData</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Users\15201\Desktop</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Users\Public\Desktop</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\Windows\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>C:\Users\15201\Documents</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Users\15201\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Users\15201\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Users\15201\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp</Value>
+</Var>
+<Var>
+<Name>%CommonDocumentsFolder%</Name>
+<Value>C:\Users\Public\Documents</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolder%</Name>
+<Value>C:\Users\15201\Music</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolderCommon%</Name>
+<Value>C:\Users\Public\Music</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolder%</Name>
+<Value>C:\Users\15201\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolderCommon%</Name>
+<Value>C:\Users\Public\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolder%</Name>
+<Value>C:\Users\15201\Videos</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolderCommon%</Name>
+<Value>C:\Users\Public\Videos</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder64%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder64%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\Windows\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\Windows</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\Users\15201\AppData\Local\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\Users\15201\AppData\Local\Temp\_ir_sf_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>15201541809@163.com</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value/>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>D:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>C:\Program Files\Common Files\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%LaunchUserName%</Name>
+<Value>15201</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDomain%</Name>
+<Value>DESKTOP-KAFT34K</Value>
+</Var>
+<Var>
+<Name>%LaunchUserApplicationDataFolder%</Name>
+<Value>C:\Users\15201\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDesktopFolder%</Name>
+<Value>C:\Users\15201\Desktop</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyDocumentsFolder%</Name>
+<Value>C:\Users\15201\Documents</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartProgramsFolder%</Name>
+<Value>C:\Users\15201\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartFolder%</Name>
+<Value>C:\Users\15201\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartupFolder%</Name>
+<Value>C:\Users\15201\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyMusicFolder%</Name>
+<Value>C:\Users\15201\Music</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyPicturesFolder%</Name>
+<Value>C:\Users\15201\Pictures</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyVideosFolder%</Name>
+<Value>C:\Users\15201\Videos</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>C:\Users\15201\Downloads\ue_chinese_64.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>C:\Users\15201\Downloads</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>C:</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>
